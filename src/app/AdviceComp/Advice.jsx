@@ -25,7 +25,7 @@ const Advice = async () => {
             <p 
                 className='text-4xl font-bold'
             >
-                Advice no. - {data.slip.id}
+                Quote - {data.slip.id}
             </p>
 
             <h1
